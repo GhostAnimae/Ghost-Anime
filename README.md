@@ -1,2 +1,6 @@
-# Ghost-Anime
-Something New - Working Towards Learning Source Code And Building A Game.
+# Hello-World
+
+Greetings 
+
+Ghost Animae Here, I'm Working On Learning C++ So I Can Develop Software And Python As Well.
+Something New - New Levels And Goals
